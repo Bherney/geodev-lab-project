@@ -1,0 +1,8 @@
+[project]
+name = "geodev-lab-project"
+version = "0.1.0"
+description = "Health facility access in Ibadan North"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.1.1",
+]
