@@ -12,3 +12,13 @@ This is a demonstration repository used in mentor walkthrough videos. Its data i
 - Week 2: Data. Every dataset, its source and its quality are in data-notes.md.
 - Week 3: Preparation. Fixed the ward names so the population table joins, set the CRS, counted facilities per ward and exported ibadan_north_wards.csv.
 - Week 4: Analysis and map. ibadan_north_wards_map.png shows population and facilities. What I found is in month-1-summary.md.
+
+## Month 2: Python foundations
+
+- Week 5: Terminal and VS Code. Ran my first script, hello.py, from the VS Code terminal.
+- Week 6: Environments and uv. Created a uv project and added pandas. use_pandas.py reads my Month 1 ward table.
+- Week 7: Python basics. analyse.py reads wards.csv, converts each area to hectares and classifies each ward as large or small.
+- Week 8: Files and data. inspect_data.py reads my Month 1 ward table with csv.DictReader and reports the smallest, largest and count of a column, skipping empty cells.
+- Week 9: Refactoring. summary.py splits the inspection into read_rows, clean_values and summarise, and summarise_all reports every number column in my ward table.
+
+Proof each script ran is in screenshots/.
