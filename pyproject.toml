@@ -4,5 +4,8 @@ version = "0.1.0"
 description = "Health facility access in Ibadan North"
 requires-python = ">=3.12"
 dependencies = [
+    "geopandas>=1.2.0",
+    "matplotlib>=3.11.2",
     "pandas>=3.1.1",
+    "rasterio>=1.5.2",
 ]
