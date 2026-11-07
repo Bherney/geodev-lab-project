@@ -22,3 +22,6 @@ This is a demonstration repository used in mentor walkthrough videos. Its data i
 - Week 9: Refactoring. summary.py splits the inspection into read_rows, clean_values and summarise, and summarise_all reports every number column in my ward table.
 
 Proof each script ran is in screenshots/.
+
+## Month 3: Geospatial Python Automation
+- Week 10:  GeoPandas. Loaded, checked, joined and mapped my [layer name] in code
